@@ -7,10 +7,11 @@
 <h3 align="center">A man who loves what he does and does what he loves</h3>
 
 <div align="center">
+💼 I’m currently working on [CYBAC TI]([https://github.com/aleff-eco/aleff-eco/issues](https://www.grupocybac.com/)) 
 
 🌱 I’m currently learning a professional English level
 
-💬 Ask me about **Docker, React, PHP... or anything [here](https://github.com/aleff-eco/aleff-eco/issues)**
+💬 Ask me about **Docker, React... or anything [here](https://github.com/aleff-eco/aleff-eco/issues)**
 
 </div>
 
@@ -30,14 +31,14 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,gitlab,figma,tailwind,git,nextjs,laravel" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,php,mysql,java,nextjs,mysql,flask,laragon" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,php,mysql,java,nextjs,flask,laragon" /><br>
 </div>
 
 <h2 align="center">⚡ My languages ⚡</h2>
 <br>
 <div align=center>
 <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aleff-eco&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aleff-eco&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
