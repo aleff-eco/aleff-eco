@@ -25,7 +25,7 @@
   <a href="https://gitlab.com/dev.aleffec" target="_blank">
      <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=orange" target="_blank" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://aleff.vercel.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
