@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=6B7280&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=+Hi+i'm+Aleff!+👋;I'm+software+engineer!;I'm+fullstack+developer!+🖥️;" />
 </h1>
 
-<h3 align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FUvPvsX9oMlMWs%2Fgiphy.gif&f=1&nofb=1&ipt=e1929405b5f16b6667bce49dde41e9e1c8a8b2edf52003b7b9c22355526f0484&ipo=images" width="25"> A man who loves what he does and does what he loves </h3>
+<h3 align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FUvPvsX9oMlMWs%2Fgiphy.gif&f=1&nofb=1&ipt=e1929405b5f16b6667bce49dde41e9e1c8a8b2edf52003b7b9c22355526f0484&ipo=images" width="25"> A man whose love for his craft fuels his purpose and inspires others. </h3>
 
 💼 I’m currently working on <a href="https://www.grupocybac.com/" target="blank" ><strong>CYBAC TI</strong></a> 
 
@@ -16,10 +16,10 @@
 💬 Ask me about **Docker, React... or anything [Here](https://github.com/aleff-eco/aleff-eco/issues) 🡸
 
 <div align="center"> 
-  <a href="mailto:dev.aleec@gmail.com" target="_blank">
+  <a href="dev.aleffec@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
   </a>
-  <a href="https://www.linkedin.com/in/aleff-espinosa-cordova-59b997296/" target="_blank">
+  <a href="https://www.linkedin.com/in/aleff-espinosa-cordova/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://gitlab.com/dev.aleffec" target="_blank">
