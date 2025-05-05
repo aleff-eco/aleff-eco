@@ -9,7 +9,7 @@
 
 <h3 align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FUvPvsX9oMlMWs%2Fgiphy.gif&f=1&nofb=1&ipt=e1929405b5f16b6667bce49dde41e9e1c8a8b2edf52003b7b9c22355526f0484&ipo=images" width="25"> A man whose love for his craft fuels his purpose and inspires others. </h3>
 
-💼 I’m currently working on <a href="https://www.grupocybac.com/" target="blank" ><strong>CYBAC TI</strong></a> 
+💼 I’m currently working as a <strong>freelance developer.</strong></a> 
 
 🌱 I’m currently learning a professional English level
 
