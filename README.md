@@ -25,13 +25,17 @@ Visit my portfolio:  https://devaleff.com
   </a>
   <a href="https://www.linkedin.com/in/aleff-espinosa-cordova/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-<!--  </a>
-  <a href="https://gitlab.com/dev.aleffec" target="_blank">
+  </a>
+    <!-- <a href="https://gitlab.com/dev.aleffec" target="_blank">
      <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=orange" target="_blank" />
   </a> -->
-  <a href="https://devaleff.com" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  <a href="https://aleff.vercel.app/" target="_blank">
+      <img
+        src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"
+        alt="Portfolio"
+      />
   </a>
+
 </div>
 
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Languages-Frameworks-Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"></h2>
