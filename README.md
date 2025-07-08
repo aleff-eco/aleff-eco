@@ -19,29 +19,46 @@
 
 Visit my portfolio:  https://devaleff.com 
 
-<div align="center"> 
-  <a href="mailto:dev.aleffec@gmail.com" target="_blank">
+<style>
+  .social-badge {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    border-radius: 4px;
+    transition: transform 0.2s ease;
+  }
+  .social-badge:hover {
+    transform: scale(1.05);
+  }
+</style>
+
+<div align="center"
+     style="display: flex; gap: 12px; align-items: center; justify-content: center; flex-wrap: wrap;">
+
+  <a href="mailto:dev.aleffec@gmail.com" target="_blank" style="text-decoration: none;">
     <img
-      src="https://img.shields.io/static/v1?label=&message=Gmail&style=for-the-badge&logo=gmail&logoColor=red&labelColor=white&color=D14836"
+      class="social-badge"
+      src="https://img.shields.io/static/v1?label=&message=Gmail&style=for-the-badge&logo=gmail&logoColor=white&labelColor=white&color=D14836"
       alt="Gmail"
     />
   </a>
-  <a href="https://www.linkedin.com/in/aleff-espinosa-cordova/" target="_blank">
+
+  <a href="https://www.linkedin.com/in/aleff-espinosa-cordova/" target="_blank" style="text-decoration: none;">
     <img
-      src="https://img.shields.io/static/v1?label=&message=LinkedIn&style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=white&color=0077B5"
+      class="social-badge"
+      src="https://img.shields.io/static/v1?label=&message=LinkedIn&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=white&color=0077B5"
       alt="LinkedIn"
     />
   </a>
-  <!-- <a href="https://gitlab.com/dev.aleffec" target="_blank">
-     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=orange" target="_blank" />
-  </a> -->
-  <a href="https://aleff.vercel.app/" target="_blank">
+
+  <a href="https://aleff.vercel.app/" target="_blank" style="text-decoration: none;">
     <img
+      class="social-badge"
       src="https://img.shields.io/static/v1?label=&message=Portfolio&style=for-the-badge&logo=vercel&logoColor=black&labelColor=white&color=000000"
       alt="Portfolio"
     />
   </a>
+
 </div>
+
 
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Languages-Frameworks-Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"></h2>
 <br/>
