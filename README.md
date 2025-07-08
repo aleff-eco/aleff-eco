@@ -19,17 +19,6 @@
 
 Visit my portfolio:  https://devaleff.com 
 
-<style>
-  .social-badge {
-    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
-    border-radius: 4px;
-    transition: transform 0.2s ease;
-  }
-  .social-badge:hover {
-    transform: scale(1.05);
-  }
-</style>
-
 <div align="center"
      style="display: flex; gap: 12px; align-items: center; justify-content: center; flex-wrap: wrap;">
 
