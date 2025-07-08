@@ -44,7 +44,7 @@ Visit my portfolio:  https://devaleff.com
   <a href="https://www.linkedin.com/in/aleff-espinosa-cordova/" target="_blank" style="text-decoration: none;">
     <img
       class="social-badge"
-      src="https://img.shields.io/static/v1?label=&message=LinkedIn&style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=white&color=0077B5"
+      src="https://img.shields.io/static/v1?label=&message=LinkedIn&style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=white&color=0077B5"
       alt="LinkedIn"
     />
   </a>
