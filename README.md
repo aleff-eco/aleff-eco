@@ -36,7 +36,7 @@ Visit my portfolio:  https://devaleff.com
   <a href="mailto:dev.aleffec@gmail.com" target="_blank" style="text-decoration: none;">
     <img
       class="social-badge"
-      src="https://img.shields.io/static/v1?label=&message=Gmail&style=for-the-badge&logo=gmail&logoColor=white&labelColor=white&color=D14836"
+      src="https://img.shields.io/static/v1?label=&message=Gmail&style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=white&color=D14836"
       alt="Gmail"
     />
   </a>
@@ -44,7 +44,7 @@ Visit my portfolio:  https://devaleff.com
   <a href="https://www.linkedin.com/in/aleff-espinosa-cordova/" target="_blank" style="text-decoration: none;">
     <img
       class="social-badge"
-      src="https://img.shields.io/static/v1?label=&message=LinkedIn&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=white&color=0077B5"
+      src="https://img.shields.io/static/v1?label=&message=LinkedIn&style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=white&color=0077B5"
       alt="LinkedIn"
     />
   </a>
@@ -58,6 +58,7 @@ Visit my portfolio:  https://devaleff.com
   </a>
 
 </div>
+
 
 
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Languages-Frameworks-Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"></h2>
