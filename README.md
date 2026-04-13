@@ -156,9 +156,9 @@ Full-Stack Developer with 4+ years of continuous experience since 2022. 20+ syst
 
 <div align="center">
 
-<a href="https://github.com/aleff-eco/mexico-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=mexico-api&title_color=263a92&icon_color=263a92" height="120" /></a>
+<a href="https://github.com/aleff-eco/mexico-api"><img src="https://gh-card.dev/repos/aleff-eco/mexico-api.svg" height="120" /></a>
 &ensp;
-<a href="https://github.com/aleff-eco/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=portfolio&title_color=263a92&icon_color=263a92" height="120" /></a>
+<a href="https://github.com/aleff-eco/portfolio"><img src="https://gh-card.dev/repos/aleff-eco/portfolio.svg" height="120" /></a>
 
 </div>
 
@@ -168,7 +168,7 @@ Full-Stack Developer with 4+ years of continuous experience since 2022. 20+ syst
 
 <img src="https://streak-stats.demolab.com/?user=aleff-eco&border_radius=6&ring=263a92&fire=263a92&currStreakLabel=263a92" height="165" alt="GitHub Streak" />
 &ensp;
-<a href="https://github.com/aleff-eco"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleff-eco" height="165" alt="Top Languages" /></a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aleff-eco&theme=github" height="165" alt="Top Languages" />
 
 </div>
 
