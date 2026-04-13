@@ -152,57 +152,27 @@ Full-Stack Developer with 4+ years of continuous experience since 2022. 20+ syst
 
 ---
 
-<div align="center">
-  <a href="https://github.com/aleff-eco/mexico-api">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=mexico-api&bg_color=0d1117&border_color=21262d&title_color=263a92&text_color=7d8590&icon_color=263a92" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=mexico-api&bg_color=ffffff&border_color=d0d7de&title_color=263a92&text_color=57606a&icon_color=263a92" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=mexico-api&bg_color=0d1117&border_color=21262d&title_color=263a92&text_color=7d8590&icon_color=263a92" height="130" alt="mexico-api" />
-    </picture>
-  </a>
-  &ensp;
-  <a href="https://github.com/aleff-eco/QUOWARE">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=QUOWARE&bg_color=0d1117&border_color=21262d&title_color=263a92&text_color=7d8590&icon_color=263a92" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=QUOWARE&bg_color=ffffff&border_color=d0d7de&title_color=263a92&text_color=57606a&icon_color=263a92" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=QUOWARE&bg_color=0d1117&border_color=21262d&title_color=263a92&text_color=7d8590&icon_color=263a92" height="130" alt="QUOWARE" />
-    </picture>
-  </a>
-</div>
+### Featured projects
 
 <div align="center">
-  <a href="https://github.com/aleff-eco/Mobile-App-Ataulfo">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=Mobile-App-Ataulfo&bg_color=0d1117&border_color=21262d&title_color=263a92&text_color=7d8590&icon_color=263a92" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=Mobile-App-Ataulfo&bg_color=ffffff&border_color=d0d7de&title_color=263a92&text_color=57606a&icon_color=263a92" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=Mobile-App-Ataulfo&bg_color=0d1117&border_color=21262d&title_color=263a92&text_color=7d8590&icon_color=263a92" height="130" alt="Mobile-App-Ataulfo" />
-    </picture>
-  </a>
-  &ensp;
-  <a href="https://github.com/aleff-eco/portfolio">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=portfolio&bg_color=0d1117&border_color=21262d&title_color=263a92&text_color=7d8590&icon_color=263a92" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=portfolio&bg_color=ffffff&border_color=d0d7de&title_color=263a92&text_color=57606a&icon_color=263a92" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=portfolio&bg_color=0d1117&border_color=21262d&title_color=263a92&text_color=7d8590&icon_color=263a92" height="130" alt="portfolio" />
-    </picture>
-  </a>
+
+<a href="https://github.com/aleff-eco/mexico-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=mexico-api&theme=dark&border_color=21262d&title_color=263a92&icon_color=263a92&border_radius=6" height="120" /></a>
+&ensp;
+<a href="https://github.com/aleff-eco/QUOWARE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=QUOWARE&theme=dark&border_color=21262d&title_color=263a92&icon_color=263a92&border_radius=6" height="120" /></a>
+
+<a href="https://github.com/aleff-eco/Mobile-App-Ataulfo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=Mobile-App-Ataulfo&theme=dark&border_color=21262d&title_color=263a92&icon_color=263a92&border_radius=6" height="120" /></a>
+&ensp;
+<a href="https://github.com/aleff-eco/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=portfolio&theme=dark&border_color=21262d&title_color=263a92&icon_color=263a92&border_radius=6" height="120" /></a>
+
 </div>
 
 ---
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=aleff-eco&hide_border=false&border_radius=6&background=0d1117&border=21262d&ring=263a92&fire=263a92&currStreakLabel=263a92&sideLabels=7d8590&dates=7d8590&sideNums=e6edf3&currStreakNum=e6edf3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=aleff-eco&hide_border=false&border_radius=6&ring=263a92&fire=263a92&currStreakLabel=263a92" />
-  <img src="https://streak-stats.demolab.com/?user=aleff-eco&hide_border=false&border_radius=6&background=0d1117&border=21262d&ring=263a92&fire=263a92&currStreakLabel=263a92&sideLabels=7d8590&dates=7d8590&sideNums=e6edf3&currStreakNum=e6edf3" height="165" alt="GitHub Streak" />
-</picture>
+<img src="https://streak-stats.demolab.com/?user=aleff-eco&hide_border=false&border_radius=6&background=0d1117&border=21262d&ring=263a92&fire=263a92&currStreakLabel=263a92&sideLabels=7d8590&dates=7d8590&sideNums=e6edf3&currStreakNum=e6edf3" height="165" alt="GitHub Streak" />
 &ensp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aleff-eco&hide=HTML,CSS,Blade&langs_count=6&layout=compact&border_radius=6&bg_color=0d1117&border_color=21262d&title_color=e6edf3&text_color=7d8590" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aleff-eco&hide=HTML,CSS,Blade&langs_count=6&layout=compact&border_radius=6&bg_color=ffffff&border_color=d0d7de&title_color=1f2328&text_color=57606a" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleff-eco&hide=HTML,CSS,Blade&langs_count=6&layout=compact&border_radius=6&bg_color=0d1117&border_color=21262d&title_color=e6edf3&text_color=7d8590" height="165" alt="Top Languages" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleff-eco&hide=HTML,CSS,Blade&langs_count=6&layout=compact&border_radius=6&theme=dark&border_color=21262d&title_color=e6edf3&text_color=7d8590" height="165" alt="Top Languages" />
 
 </div>
 
