@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="252" height="48" viewBox="0 0 252 48">
+  <rect width="252" height="48" rx="12" fill="#EA4335"/>
+  <!-- envelope icon -->
+  <rect x="16" y="16" width="20" height="16" rx="2" fill="none" stroke="white" stroke-width="1.5"/>
+  <polyline points="16,16 26,26 36,16" fill="none" stroke="white" stroke-width="1.5"/>
+  <!-- text -->
+  <text x="48" y="17" font-family="Arial, sans-serif" font-size="10" fill="rgba(255,255,255,0.75)">Send an email</text>
+  <text x="48" y="34" font-family="Arial, sans-serif" font-size="12.5" font-weight="bold" fill="white">dev.aleffec@gmail.com</text>
+</svg>

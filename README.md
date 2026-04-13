@@ -21,6 +21,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=18&duration=3200&pause=2600&color=7d8590&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%C2%B7+Tech+Lead;Laravel+%C2%B7+Next.js+%C2%B7+Flutter+%C2%B7+.NET;20%2B+systems+shipped+to+production." alt="Typing SVG" />
 </picture>
 
+<br/>
+
+<sub>Available for consulting, senior roles & open source collaboration</sub>
+
+<br/><br/>
+
+<a href="mailto:dev.aleffec@gmail.com"><img src="btn-email.svg" height="48" alt="Email" /></a>
+&ensp;
+<a href="https://www.linkedin.com/in/aleff-espinosa-cordova/"><img src="btn-linkedin.svg" height="48" alt="LinkedIn" /></a>
+&ensp;
+<a href="https://devaleff.com"><img src="btn-portfolio.svg" height="48" alt="Portfolio" /></a>
 
 </div>
 
@@ -228,34 +239,3 @@ Full-Stack Developer with 4+ years of continuous experience since 2022. 20+ syst
 
 </div>
 
-<br/>
-
----
-
-<div align="center">
-
-<h3>Available for consulting, senior roles & open source collaboration</h3>
-
-<br/>
-
-<a href="mailto:dev.aleffec@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20me%20an%20email-dev.aleffec%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="42" alt="Email" />
-</a>
-
-<br/>&nbsp;<br/>
-
-<a href="https://www.linkedin.com/in/aleff-espinosa-cordova/">
-  <img src="https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="42" alt="LinkedIn" />
-</a>
-
-<br/>&nbsp;<br/>
-
-<a href="https://devaleff.com">
-  <img src="https://img.shields.io/badge/View%20my%20work-devaleff.com-263a92?style=for-the-badge&logo=safari&logoColor=white&labelColor=263a92" height="42" alt="Portfolio" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=263a92&height=2&width=600&section=footer" />
-
-</div>

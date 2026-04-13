@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="48" viewBox="0 0 180 48">
+  <rect width="180" height="48" rx="12" fill="#263a92"/>
+  <!-- globe / arrow icon -->
+  <circle cx="26" cy="24" r="9" fill="none" stroke="white" stroke-width="1.5"/>
+  <line x1="26" y1="15" x2="26" y2="33" stroke="white" stroke-width="1.2"/>
+  <line x1="17" y1="24" x2="35" y2="24" stroke="white" stroke-width="1.2"/>
+  <path d="M19,18 Q26,22 33,18" fill="none" stroke="white" stroke-width="1.2"/>
+  <path d="M19,30 Q26,26 33,30" fill="none" stroke="white" stroke-width="1.2"/>
+  <!-- text -->
+  <text x="46" y="17" font-family="Arial, sans-serif" font-size="10" fill="rgba(255,255,255,0.75)">View my work</text>
+  <text x="46" y="34" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="white">devaleff.com</text>
+</svg>
