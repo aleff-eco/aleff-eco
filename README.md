@@ -4,7 +4,7 @@
 -->
 
 <p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aleff-eco.aleff-eco" alt="visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aleff-eco.aleff-eco&left_color=21262d&right_color=263a92" alt="visitors" />
 </p>
 
 <br/>
@@ -21,9 +21,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=18&duration=3200&pause=2600&color=7d8590&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%C2%B7+Tech+Lead;Laravel+%C2%B7+Next.js+%C2%B7+Flutter+%C2%B7+.NET;20%2B+systems+shipped+to+production." alt="Typing SVG" />
 </picture>
 
-<br/>
-
-[LinkedIn](https://www.linkedin.com/in/aleff-espinosa-cordova/)&ensp;·&ensp;[dev.aleffec@gmail.com](mailto:dev.aleffec@gmail.com)&ensp;·&ensp;[devaleff.com](https://devaleff.com)
 
 </div>
 
@@ -182,9 +179,30 @@ Full-Stack Developer with 4+ years of continuous experience since 2022. 20+ syst
 
 <div align="center">
 
-<a href="https://github.com/aleff-eco/mexico-api"><img src="https://gh-card.dev/repos/aleff-eco/mexico-api.svg" height="120" /></a>
-&ensp;
-<a href="https://github.com/aleff-eco/portfolio"><img src="https://gh-card.dev/repos/aleff-eco/portfolio.svg" height="120" /></a>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/aleff-eco/mexico-api">mexico-api</a></h4>
+      <p>Ultralight REST API for Mexican postal & geographic data. 100,000+ queries in the first week · ~20,000 weekly active.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/aleff-eco/mexico-api?style=flat-square&color=263a92&labelColor=21262d" />
+        &nbsp;
+        <img src="https://img.shields.io/github/forks/aleff-eco/mexico-api?style=flat-square&color=263a92&labelColor=21262d" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Node.js-Express-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=21262d" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/aleff-eco/portfolio">portfolio</a></h4>
+      <p>Open-source personal portfolio site — live at <a href="https://devaleff.com">devaleff.com</a>.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/aleff-eco/portfolio?style=flat-square&color=263a92&labelColor=21262d" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Next.js-TypeScript-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=21262d" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -194,11 +212,19 @@ Full-Stack Developer with 4+ years of continuous experience since 2022. 20+ syst
 
 <img src="https://streak-stats.demolab.com/?user=aleff-eco&border_radius=6&ring=263a92&fire=263a92&currStreakLabel=263a92" height="165" alt="GitHub Streak" />
 &ensp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aleff-eco&theme=github" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aleff-eco&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" height="165" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleff-eco&theme=nord_bright" alt="Contribution Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleff-eco&theme=default" alt="Contribution Graph" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aleff-eco/aleff-eco/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aleff-eco/aleff-eco/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/aleff-eco/aleff-eco/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+</picture>
 
 </div>
 
@@ -212,11 +238,21 @@ Full-Stack Developer with 4+ years of continuous experience since 2022. 20+ syst
 
 <br/>
 
-<a href="mailto:dev.aleffec@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/aleff-espinosa-cordova/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
-&nbsp;
-<a href="https://devaleff.com"><img src="https://img.shields.io/badge/devaleff.com-263a92?style=flat-square&logo=safari&logoColor=white" height="28" alt="Portfolio" /></a>
+<a href="mailto:dev.aleffec@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20me%20an%20email-dev.aleffec%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="42" alt="Email" />
+</a>
+
+<br/>&nbsp;<br/>
+
+<a href="https://www.linkedin.com/in/aleff-espinosa-cordova/">
+  <img src="https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="42" alt="LinkedIn" />
+</a>
+
+<br/>&nbsp;<br/>
+
+<a href="https://devaleff.com">
+  <img src="https://img.shields.io/badge/View%20my%20work-devaleff.com-263a92?style=for-the-badge&logo=safari&logoColor=white&labelColor=263a92" height="42" alt="Portfolio" />
+</a>
 
 <br/><br/>
 
