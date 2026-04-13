@@ -154,31 +154,23 @@ Full-Stack Developer with 4+ years of continuous experience since 2022. 20+ syst
 
 ### Certifications
 
-<br/>
-
-<sub><b>Amazon Web Services</b></sub>
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" />
-&nbsp;
-<img src="https://img.shields.io/badge/AWS_Academy-Cloud_Operations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" />
-&nbsp;
-<img src="https://img.shields.io/badge/AWS_Academy-Cloud_Security_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" />
-
-</div>
-
-<br/>
-
-<sub><b>Cisco Networking Academy</b></sub>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1A1A2E" />
-&nbsp;
-<img src="https://img.shields.io/badge/Cisco-Endpoint_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1A1A2E" />
-&nbsp;
-<img src="https://img.shields.io/badge/Cisco-Cyber_Threat_Management-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1A1A2E" />
+<a href="https://www.credly.com/users/aleff-espinosa-cordova.c2ee6eef/badges" target="_blank">
+  <img src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" height="100" alt="AWS Cloud Foundations" title="AWS Academy Cloud Foundations" />
+  &nbsp;
+  <img src="https://images.credly.com/images/07e7ba52-aea4-431f-ba2d-a4113efd1d5a/blob" height="100" alt="AWS Cloud Operations" title="AWS Academy Cloud Operations" />
+  &nbsp;
+  <img src="https://images.credly.com/images/7f7ea828-a10d-44f8-8baa-58a9c1af7671/blob" height="100" alt="AWS Cloud Security" title="AWS Academy Cloud Security Foundations" />
+  &nbsp;
+  <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="100" alt="Intro to Cybersecurity" title="Introduction to Cybersecurity" />
+  &nbsp;
+  <img src="https://images.credly.com/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" height="100" alt="Endpoint Security" title="Endpoint Security" />
+  &nbsp;
+  <img src="https://images.credly.com/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" height="100" alt="Cyber Threat Management" title="Cyber Threat Management" />
+  &nbsp;
+  <img src="https://images.credly.com/images/77b1ea15-6287-4d97-8ecd-c5afa2d137ea/image.png" height="100" alt="English for IT 1" title="English for IT 1" />
+</a>
 
 </div>
 
@@ -216,25 +208,15 @@ Full-Stack Developer with 4+ years of continuous experience since 2022. 20+ syst
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=263a92&height=2&width=600&section=header" />
-
-<br/><br/>
-
 <h3>Available for consulting, senior roles & open source collaboration</h3>
 
 <br/>
 
-<a href="mailto:dev.aleffec@gmail.com">
-  <img src="https://img.shields.io/badge/-dev.aleffec%40gmail.com-263a92?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="36" alt="Email" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/aleff-espinosa-cordova/">
-  <img src="https://img.shields.io/badge/-aleff--espinosa--cordova-263a92?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="36" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://devaleff.com">
-  <img src="https://img.shields.io/badge/-devaleff.com-263a92?style=for-the-badge&logo=safari&logoColor=white&labelColor=1c1c1e" height="36" alt="Portfolio" />
-</a>
+<a href="mailto:dev.aleffec@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/aleff-espinosa-cordova/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://devaleff.com"><img src="https://img.shields.io/badge/devaleff.com-263a92?style=flat-square&logo=safari&logoColor=white" height="28" alt="Portfolio" /></a>
 
 <br/><br/>
 
