@@ -4,7 +4,7 @@
 -->
 
 <p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aleff-eco.aleff-eco&left_color=21262d&right_color=263a92" alt="visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aleff-eco.aleff-eco" alt="visitors" />
 </p>
 
 <br/>
@@ -152,43 +152,56 @@ Full-Stack Developer with 4+ years of continuous experience since 2022. 20+ syst
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="200"><a href="https://github.com/aleff-eco/mexico-api"><strong>mexico-api</strong></a></td>
-    <td>Node.js · Express · REST API for postal & geographic data · 100,000+ queries in first week · ~20,000 weekly active queries</td>
-    <td align="right">⭐ 17 &nbsp;🍴 6</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/aleff-eco/QUOWARE"><strong>QUOWARE</strong></a></td>
-    <td>Flutter · cross-platform app for local business management</td>
-    <td align="right">⭐ 6</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/aleff-eco/Mobile-App-Ataulfo"><strong>Mobile-App-Ataulfo</strong></a></td>
-    <td>Flutter + AI · mango ripeness detection via computer vision</td>
-    <td align="right">⭐ 5</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/aleff-eco/portfolio"><strong>portfolio</strong></a></td>
-    <td>Next.js · open-source personal site</td>
-    <td align="right">⭐ 6</td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/aleff-eco/mexico-api">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=mexico-api&bg_color=0d1117&border_color=21262d&title_color=263a92&text_color=7d8590&icon_color=263a92" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=mexico-api&bg_color=ffffff&border_color=d0d7de&title_color=263a92&text_color=57606a&icon_color=263a92" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=mexico-api&bg_color=0d1117&border_color=21262d&title_color=263a92&text_color=7d8590&icon_color=263a92" height="130" alt="mexico-api" />
+    </picture>
+  </a>
+  &ensp;
+  <a href="https://github.com/aleff-eco/QUOWARE">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=QUOWARE&bg_color=0d1117&border_color=21262d&title_color=263a92&text_color=7d8590&icon_color=263a92" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=QUOWARE&bg_color=ffffff&border_color=d0d7de&title_color=263a92&text_color=57606a&icon_color=263a92" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=QUOWARE&bg_color=0d1117&border_color=21262d&title_color=263a92&text_color=7d8590&icon_color=263a92" height="130" alt="QUOWARE" />
+    </picture>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/aleff-eco/Mobile-App-Ataulfo">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=Mobile-App-Ataulfo&bg_color=0d1117&border_color=21262d&title_color=263a92&text_color=7d8590&icon_color=263a92" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=Mobile-App-Ataulfo&bg_color=ffffff&border_color=d0d7de&title_color=263a92&text_color=57606a&icon_color=263a92" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=Mobile-App-Ataulfo&bg_color=0d1117&border_color=21262d&title_color=263a92&text_color=7d8590&icon_color=263a92" height="130" alt="Mobile-App-Ataulfo" />
+    </picture>
+  </a>
+  &ensp;
+  <a href="https://github.com/aleff-eco/portfolio">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=portfolio&bg_color=0d1117&border_color=21262d&title_color=263a92&text_color=7d8590&icon_color=263a92" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=portfolio&bg_color=ffffff&border_color=d0d7de&title_color=263a92&text_color=57606a&icon_color=263a92" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aleff-eco&repo=portfolio&bg_color=0d1117&border_color=21262d&title_color=263a92&text_color=7d8590&icon_color=263a92" height="130" alt="portfolio" />
+    </picture>
+  </a>
+</div>
 
 ---
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aleff-eco&show_icons=true&hide=commits,prs,issues,contribs&include_all_commits=true&border_radius=6&bg_color=0d1117&border_color=21262d&icon_color=263a92&title_color=e6edf3&text_color=7d8590" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=aleff-eco&show_icons=true&hide=commits,prs,issues,contribs&include_all_commits=true&border_radius=6&bg_color=ffffff&border_color=d0d7de&icon_color=263a92&title_color=1f2328&text_color=57606a" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aleff-eco&show_icons=true&hide=commits,prs,issues,contribs&include_all_commits=true&border_radius=6&bg_color=0d1117&border_color=21262d&icon_color=263a92&title_color=e6edf3&text_color=7d8590" height="150" alt="GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=aleff-eco&hide_border=false&border_radius=6&background=0d1117&border=21262d&ring=263a92&fire=263a92&currStreakLabel=263a92&sideLabels=7d8590&dates=7d8590&sideNums=e6edf3&currStreakNum=e6edf3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=aleff-eco&hide_border=false&border_radius=6&ring=263a92&fire=263a92&currStreakLabel=263a92" />
+  <img src="https://streak-stats.demolab.com/?user=aleff-eco&hide_border=false&border_radius=6&background=0d1117&border=21262d&ring=263a92&fire=263a92&currStreakLabel=263a92&sideLabels=7d8590&dates=7d8590&sideNums=e6edf3&currStreakNum=e6edf3" height="165" alt="GitHub Streak" />
 </picture>
 &ensp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aleff-eco&hide=HTML,CSS&langs_count=6&layout=compact&border_radius=6&bg_color=0d1117&border_color=21262d&title_color=e6edf3&text_color=7d8590" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aleff-eco&hide=HTML,CSS&langs_count=6&layout=compact&border_radius=6&bg_color=ffffff&border_color=d0d7de&title_color=1f2328&text_color=57606a" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleff-eco&hide=HTML,CSS&langs_count=6&layout=compact&border_radius=6&bg_color=0d1117&border_color=21262d&title_color=e6edf3&text_color=7d8590" height="150" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aleff-eco&hide=HTML,CSS,Blade&langs_count=6&layout=compact&border_radius=6&bg_color=0d1117&border_color=21262d&title_color=e6edf3&text_color=7d8590" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aleff-eco&hide=HTML,CSS,Blade&langs_count=6&layout=compact&border_radius=6&bg_color=ffffff&border_color=d0d7de&title_color=1f2328&text_color=57606a" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleff-eco&hide=HTML,CSS,Blade&langs_count=6&layout=compact&border_radius=6&bg_color=0d1117&border_color=21262d&title_color=e6edf3&text_color=7d8590" height="165" alt="Top Languages" />
 </picture>
 
 </div>
@@ -197,6 +210,24 @@ Full-Stack Developer with 4+ years of continuous experience since 2022. 20+ syst
 
 ---
 
-<p align="center">
-  <sub>Open to consulting, senior roles, and open source collaboration &ensp;·&ensp; <a href="mailto:dev.aleffec@gmail.com"><strong>reach out</strong></a></sub>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=263a92&height=2&width=600&section=header" />
+
+<br/>
+
+**Available for consulting, senior roles & open source collaboration**
+
+<br/>
+
+<a href="mailto:dev.aleffec@gmail.com"><img src="https://img.shields.io/badge/dev.aleffec%40gmail.com-263a92?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+&ensp;
+<a href="https://www.linkedin.com/in/aleff-espinosa-cordova/"><img src="https://img.shields.io/badge/LinkedIn-263a92?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&ensp;
+<a href="https://devaleff.com"><img src="https://img.shields.io/badge/devaleff.com-263a92?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=263a92&height=2&width=600&section=footer" />
+
+</div>
