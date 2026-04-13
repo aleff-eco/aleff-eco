@@ -4,7 +4,7 @@
 -->
 
 <p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aleff-eco.aleff-eco&left_color=21262d&right_color=263a92" alt="visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aleff-eco.aleff-eco" alt="visitors" />
 </p>
 
 <br/>
@@ -21,11 +21,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=18&duration=3200&pause=2600&color=7d8590&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%C2%B7+Tech+Lead;Laravel+%C2%B7+Next.js+%C2%B7+Flutter+%C2%B7+.NET;20%2B+systems+shipped+to+production." alt="Typing SVG" />
 </picture>
 
-<br/>
-
-<sub>Available for consulting, senior roles & open source collaboration</sub>
-
 <br/><br/>
+
+<p>Available for consulting, senior roles & open source collaboration</p>
 
 <a href="mailto:dev.aleffec@gmail.com"><img src="btn-email.svg" height="48" alt="Email" /></a>
 &ensp;
@@ -221,13 +219,25 @@ Full-Stack Developer with 4+ years of continuous experience since 2022. 20+ syst
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=aleff-eco&border_radius=6&ring=263a92&fire=263a92&currStreakLabel=263a92" height="165" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=aleff-eco&border_radius=6&ring=263a92&fire=263a92&currStreakLabel=263a92&background=0d1117&border=21262d&sideLabels=7d8590&dates=7d8590&sideNums=e6edf3&currStreakNum=e6edf3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=aleff-eco&border_radius=6&ring=263a92&fire=263a92&currStreakLabel=263a92" />
+  <img src="https://streak-stats.demolab.com/?user=aleff-eco&border_radius=6&ring=263a92&fire=263a92&currStreakLabel=263a92" height="165" alt="GitHub Streak" />
+</picture>
 &ensp;
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aleff-eco&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" height="165" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aleff-eco&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aleff-eco&hide=HTML&langs_count=8&layout=compact&theme=default&border_radius=10&size_weight=0.5&count_weight=0.5" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aleff-eco&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" height="165" alt="Top Languages" />
+</picture>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleff-eco&theme=default" alt="Contribution Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleff-eco&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleff-eco&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleff-eco&theme=default" alt="Contribution Graph" />
+</picture>
 
 <br/><br/>
 
