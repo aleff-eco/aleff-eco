@@ -167,6 +167,12 @@ Full-Stack Developer with 4+ years of continuous experience since 2022. 20+ syst
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=aleff-eco&border_radius=6&ring=263a92&fire=263a92&currStreakLabel=263a92" height="165" alt="GitHub Streak" />
+&ensp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aleff-eco&theme=github" height="165" alt="GitHub Stats" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleff-eco&theme=github" alt="Contribution Graph" />
 
 <br/><br/>
 
@@ -182,17 +188,23 @@ Full-Stack Developer with 4+ years of continuous experience since 2022. 20+ syst
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=263a92&height=2&width=600&section=header" />
 
+<br/><br/>
+
+<h3>Available for consulting, senior roles & open source collaboration</h3>
+
 <br/>
 
-**Available for consulting, senior roles & open source collaboration**
-
-<br/>
-
-<a href="mailto:dev.aleffec@gmail.com"><img src="https://img.shields.io/badge/dev.aleffec%40gmail.com-263a92?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-&ensp;
-<a href="https://www.linkedin.com/in/aleff-espinosa-cordova/"><img src="https://img.shields.io/badge/LinkedIn-263a92?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-&ensp;
-<a href="https://devaleff.com"><img src="https://img.shields.io/badge/devaleff.com-263a92?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:dev.aleffec@gmail.com">
+  <img src="https://img.shields.io/badge/-dev.aleffec%40gmail.com-263a92?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="36" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aleff-espinosa-cordova/">
+  <img src="https://img.shields.io/badge/-aleff--espinosa--cordova-263a92?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="36" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://devaleff.com">
+  <img src="https://img.shields.io/badge/-devaleff.com-263a92?style=for-the-badge&logo=safari&logoColor=white&labelColor=1c1c1e" height="36" alt="Portfolio" />
+</a>
 
 <br/><br/>
 
