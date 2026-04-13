@@ -168,7 +168,7 @@ Full-Stack Developer with 4+ years of continuous experience since 2022. 20+ syst
 
 <img src="https://streak-stats.demolab.com/?user=aleff-eco&border_radius=6&ring=263a92&fire=263a92&currStreakLabel=263a92" height="165" alt="GitHub Streak" />
 &ensp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aleff-eco&theme=github" height="165" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aleff-eco&theme=github" height="165" alt="Top Languages" />
 
 </div>
 
