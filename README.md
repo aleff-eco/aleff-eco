@@ -152,6 +152,40 @@ Full-Stack Developer with 4+ years of continuous experience since 2022. 20+ syst
 
 ---
 
+### Certifications
+
+<br/>
+
+<sub><b>Amazon Web Services</b></sub>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" />
+&nbsp;
+<img src="https://img.shields.io/badge/AWS_Academy-Cloud_Operations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" />
+&nbsp;
+<img src="https://img.shields.io/badge/AWS_Academy-Cloud_Security_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" />
+
+</div>
+
+<br/>
+
+<sub><b>Cisco Networking Academy</b></sub>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1A1A2E" />
+&nbsp;
+<img src="https://img.shields.io/badge/Cisco-Endpoint_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1A1A2E" />
+&nbsp;
+<img src="https://img.shields.io/badge/Cisco-Cyber_Threat_Management-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1A1A2E" />
+
+</div>
+
+<br/>
+
+---
+
 ### Featured projects
 
 <div align="center">
@@ -172,11 +206,7 @@ Full-Stack Developer with 4+ years of continuous experience since 2022. 20+ syst
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleff-eco&theme=github" alt="Contribution Graph" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aleff-eco&bg_color=ffffff&color=263a92&line=263a92&point=263a92&area=true&area_color=263a92&hide_border=false&radius=6" alt="Activity Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleff-eco&theme=nord_bright" alt="Contribution Graph" />
 
 </div>
 
