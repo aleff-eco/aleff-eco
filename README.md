@@ -219,25 +219,13 @@ Full-Stack Developer with 4+ years of continuous experience since 2022. 20+ syst
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=aleff-eco&border_radius=6&ring=263a92&fire=263a92&currStreakLabel=263a92&background=0d1117&border=21262d&sideLabels=7d8590&dates=7d8590&sideNums=e6edf3&currStreakNum=e6edf3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=aleff-eco&border_radius=6&ring=263a92&fire=263a92&currStreakLabel=263a92" />
-  <img src="https://streak-stats.demolab.com/?user=aleff-eco&border_radius=6&ring=263a92&fire=263a92&currStreakLabel=263a92" height="165" alt="GitHub Streak" />
-</picture>
+<img src="https://streak-stats.demolab.com/?user=aleff-eco&border_radius=6&ring=263a92&fire=263a92&currStreakLabel=263a92" height="165" alt="GitHub Streak" />
 &ensp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aleff-eco&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aleff-eco&hide=HTML&langs_count=8&layout=compact&theme=default&border_radius=10&size_weight=0.5&count_weight=0.5" />
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aleff-eco&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" height="165" alt="Top Languages" />
-</picture>
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aleff-eco&hide=HTML&langs_count=8&layout=compact&theme=default&border_radius=10&size_weight=0.5&count_weight=0.5" height="165" alt="Top Languages" />
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleff-eco&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleff-eco&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleff-eco&theme=default" alt="Contribution Graph" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleff-eco&theme=default" alt="Contribution Graph" />
 
 <br/><br/>
 
