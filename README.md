@@ -1,69 +1,202 @@
-<!-- Hello! If you are reading this, I hope you find the content of this readme useful to you. 🙋‍♂️ -->
+<!--
+  Hey, thanks for stopping by and reading the source — hope you find something useful here.
+  If you do, don't forget to leave a star ⭐!
+-->
 
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aleff-eco.aleff-eco&left_color=21262d&right_color=263a92" alt="visitors" />
+</p>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aleff-eco.aleff-eco" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=6B7280&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=+Hi+i'm+Aleff!+👋;I'm+software+engineer!;I'm+fullstack+developer!+🖥️;" />
-</h1>
-
-<h3 align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FUvPvsX9oMlMWs%2Fgiphy.gif&f=1&nofb=1&ipt=e1929405b5f16b6667bce49dde41e9e1c8a8b2edf52003b7b9c22355526f0484&ipo=images" width="25"> A man whose love for his craft fuels his purpose and inspires others. </h3>
-
-💼 I’m currently working as a <strong>freelance developer.</strong></a> 
-
-🌱 I’m currently learning a professional English level
-
-💬 Ask me about **Docker, React... or anything [Here](https://github.com/aleff-eco/aleff-eco/issues) 🡸
-
-⚠️ Proven experience, 0 commit automation bots 😉
-
-Visit my portfolio:  https://devaleff.com 
-
-<div align="center"
-     style="display: flex; gap: 12px; align-items: center; justify-content: center; flex-wrap: wrap;">
-
-  <a href="mailto:dev.aleffec@gmail.com" target="_blank" style="text-decoration: none;">
-    <img
-      class="social-badge"
-      src="https://img.shields.io/static/v1?label=&message=Gmail&style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=white&color=D14836"
-      alt="Gmail"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/aleff-espinosa-cordova/" target="_blank" style="text-decoration: none;">
-    <img
-      class="social-badge"
-      src="https://img.shields.io/static/v1?label=&message=LinkedIn&style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=white&color=0077B5"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://aleff.vercel.app/" target="_blank" style="text-decoration: none;">
-    <img
-      class="social-badge"
-      src="https://img.shields.io/static/v1?label=&message=Portfolio&style=for-the-badge&logo=vercel&logoColor=black&labelColor=white&color=000000"
-      alt="Portfolio"
-    />
-  </a>
-
-</div>
-
-
-
-<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Languages-Frameworks-Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"></h2>
 <br/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,gitlab,figma,tailwind,git,docker,laravel,postman" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,php,mysql,java,nextjs,linux" /><br>
+  <img src="name.svg" alt="Aleff Espinosa Córdova" />
 </div>
 
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> My Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
-<br>
 <div align="center">
-    <!-- <img width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=aleff-eco&show_icons=true&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="GitHub stats" /> -->
-    <img width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=aleff-eco&show_icons=true&theme=react&border_radius=10&include_all_commits=true" alt="GitHub stats" />
-    <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aleff-eco&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
-  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=18&duration=3200&pause=2600&color=7d8590&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%C2%B7+Tech+Lead;Laravel+%C2%B7+Next.js+%C2%B7+Flutter+%C2%B7+.NET;20%2B+systems+shipped+to+production." />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=18&duration=3200&pause=2600&color=57606a&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%C2%B7+Tech+Lead;Laravel+%C2%B7+Next.js+%C2%B7+Flutter+%C2%B7+.NET;20%2B+systems+shipped+to+production." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=18&duration=3200&pause=2600&color=7d8590&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%C2%B7+Tech+Lead;Laravel+%C2%B7+Next.js+%C2%B7+Flutter+%C2%B7+.NET;20%2B+systems+shipped+to+production." alt="Typing SVG" />
+</picture>
+
+<br/>
+
+[LinkedIn](https://www.linkedin.com/in/aleff-espinosa-cordova/)&ensp;·&ensp;[dev.aleffec@gmail.com](mailto:dev.aleffec@gmail.com)&ensp;·&ensp;[devaleff.com](https://devaleff.com)
+
 </div>
 
-<hr/>
+<br/>
+
+---
+
+Full-Stack Developer with 4+ years of continuous experience since 2022. 20+ systems and applications shipped to production — including apps published on Google Play and App Store, and open source projects with 100,000+ active queries. Specialized in Laravel, Next.js, Flutter, and .NET, with a strong focus on REST APIs, CI/CD, scalability, and security. Proven track record leading agile teams and translating business needs into robust technical solutions.
+
+---
+
+### Stack
+
+<br/>
+
+<sub><b>Backend</b></sub>
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <div align="center"><img src="https://skillicons.dev/icons?i=laravel" height="32" alt="Laravel" /><br/><sub>Laravel</sub></div>
+    </td>
+    <td align="center" width="110">
+      <div align="center"><img src="https://img.shields.io/badge/Livewire-4e56a6?style=flat-square&logo=livewire&logoColor=white&labelColor=4e56a6" height="28" alt="Livewire" /><br/><sub>Livewire</sub></div>
+    </td>
+    <td align="center" width="110">
+      <div align="center"><img src="https://skillicons.dev/icons?i=dotnet" height="32" alt=".NET" /><br/><sub>.NET</sub></div>
+    </td>
+    <td align="center" width="110">
+      <div align="center"><img src="https://skillicons.dev/icons?i=php" height="32" alt="PHP" /><br/><sub>PHP</sub></div>
+    </td>
+    <td align="center" width="110">
+      <div align="center"><img src="https://skillicons.dev/icons?i=cs" height="32" alt="C#" /><br/><sub>C#</sub></div>
+    </td>
+    <td align="center" width="110">
+      <div align="center"><img src="https://skillicons.dev/icons?i=express" height="32" alt="Express.js" /><br/><sub>Express.js</sub></div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<sub><b>Frontend</b></sub>
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <div align="center"><img src="https://skillicons.dev/icons?i=nextjs" height="32" alt="Next.js" /><br/><sub>Next.js</sub></div>
+    </td>
+    <td align="center" width="110">
+      <div align="center"><img src="https://skillicons.dev/icons?i=react" height="32" alt="React" /><br/><sub>React</sub></div>
+    </td>
+    <td align="center" width="110">
+      <div align="center"><img src="https://skillicons.dev/icons?i=ts" height="32" alt="TypeScript" /><br/><sub>TypeScript</sub></div>
+    </td>
+    <td align="center" width="110">
+      <div align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="Tailwind CSS" /><br/><sub>Tailwind CSS</sub></div>
+    </td>
+    <td align="center" width="110">
+      <div align="center"><img src="https://skillicons.dev/icons?i=alpinejs" height="32" alt="Alpine.js" /><br/><sub>Alpine.js</sub></div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<sub><b>Mobile</b></sub>
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <div align="center"><img src="https://skillicons.dev/icons?i=flutter" height="32" alt="Flutter" /><br/><sub>Flutter</sub></div>
+    </td>
+    <td align="center" width="110">
+      <div align="center"><img src="https://skillicons.dev/icons?i=dart" height="32" alt="Dart" /><br/><sub>Dart</sub></div>
+    </td>
+    <td align="center" width="110">
+      <div align="center"><img src="https://skillicons.dev/icons?i=react" height="32" alt="React Native" /><br/><sub>React Native</sub></div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<sub><b>Databases</b></sub>
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <div align="center"><img src="https://skillicons.dev/icons?i=mysql" height="32" alt="MySQL" /><br/><sub>MySQL</sub></div>
+    </td>
+    <td align="center" width="110">
+      <div align="center"><img src="https://skillicons.dev/icons?i=postgres" height="32" alt="PostgreSQL" /><br/><sub>PostgreSQL</sub></div>
+    </td>
+    <td align="center" width="110">
+      <div align="center"><img src="https://skillicons.dev/icons?i=sqlite" height="32" alt="SQLite" /><br/><sub>SQLite</sub></div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<sub><b>Cloud & DevOps</b></sub>
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <div align="center"><img src="https://skillicons.dev/icons?i=aws" height="32" alt="AWS" /><br/><sub>AWS</sub></div>
+    </td>
+    <td align="center" width="110">
+      <div align="center"><img src="https://skillicons.dev/icons?i=docker" height="32" alt="Docker" /><br/><sub>Docker</sub></div>
+    </td>
+    <td align="center" width="110">
+      <div align="center"><img src="https://skillicons.dev/icons?i=githubactions" height="32" alt="GitHub Actions" /><br/><sub>GitHub Actions</sub></div>
+    </td>
+    <td align="center" width="110">
+      <div align="center"><img src="https://skillicons.dev/icons?i=linux" height="32" alt="Linux" /><br/><sub>Linux</sub></div>
+    </td>
+    <td align="center" width="110">
+      <div align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="Node.js" /><br/><sub>Node.js</sub></div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<table width="100%">
+  <tr>
+    <td width="200"><a href="https://github.com/aleff-eco/mexico-api"><strong>mexico-api</strong></a></td>
+    <td>Node.js · Express · REST API for postal & geographic data · 100,000+ queries in first week · ~20,000 weekly active queries</td>
+    <td align="right">⭐ 17 &nbsp;🍴 6</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/aleff-eco/QUOWARE"><strong>QUOWARE</strong></a></td>
+    <td>Flutter · cross-platform app for local business management</td>
+    <td align="right">⭐ 6</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/aleff-eco/Mobile-App-Ataulfo"><strong>Mobile-App-Ataulfo</strong></a></td>
+    <td>Flutter + AI · mango ripeness detection via computer vision</td>
+    <td align="right">⭐ 5</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/aleff-eco/portfolio"><strong>portfolio</strong></a></td>
+    <td>Next.js · open-source personal site</td>
+    <td align="right">⭐ 6</td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aleff-eco&show_icons=true&hide=commits,prs,issues,contribs&include_all_commits=true&border_radius=6&bg_color=0d1117&border_color=21262d&icon_color=263a92&title_color=e6edf3&text_color=7d8590" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=aleff-eco&show_icons=true&hide=commits,prs,issues,contribs&include_all_commits=true&border_radius=6&bg_color=ffffff&border_color=d0d7de&icon_color=263a92&title_color=1f2328&text_color=57606a" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aleff-eco&show_icons=true&hide=commits,prs,issues,contribs&include_all_commits=true&border_radius=6&bg_color=0d1117&border_color=21262d&icon_color=263a92&title_color=e6edf3&text_color=7d8590" height="150" alt="GitHub Stats" />
+</picture>
+&ensp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aleff-eco&hide=HTML,CSS&langs_count=6&layout=compact&border_radius=6&bg_color=0d1117&border_color=21262d&title_color=e6edf3&text_color=7d8590" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aleff-eco&hide=HTML,CSS&langs_count=6&layout=compact&border_radius=6&bg_color=ffffff&border_color=d0d7de&title_color=1f2328&text_color=57606a" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleff-eco&hide=HTML,CSS&langs_count=6&layout=compact&border_radius=6&bg_color=0d1117&border_color=21262d&title_color=e6edf3&text_color=7d8590" height="150" alt="Top Languages" />
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+<p align="center">
+  <sub>Open to consulting, senior roles, and open source collaboration &ensp;·&ensp; <a href="mailto:dev.aleffec@gmail.com"><strong>reach out</strong></a></sub>
+</p>
