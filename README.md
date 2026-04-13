@@ -10,7 +10,11 @@
 <br/>
 
 <div align="center">
-  <img src="name.svg" alt="Aleff Espinosa Córdova" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="name-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="name.svg" />
+    <img src="name.svg" alt="Aleff Espinosa Córdova" />
+  </picture>
 </div>
 
 <div align="center">
@@ -25,6 +29,8 @@
 
 <p>Available for consulting, senior roles & open source collaboration</p>
 
+<br/>
+
 <a href="mailto:dev.aleffec@gmail.com"><img src="btn-email.svg" height="48" alt="Email" /></a>
 &ensp;
 <a href="https://www.linkedin.com/in/aleff-espinosa-cordova/"><img src="btn-linkedin.svg" height="48" alt="LinkedIn" /></a>
@@ -37,7 +43,7 @@
 
 ---
 
-Full-Stack Developer with 4+ years of continuous experience since 2022. 20+ systems and applications shipped to production — including apps published on Google Play and App Store, and open source projects with 100,000+ active queries. Specialized in Laravel, Next.js, Flutter, and .NET, with a strong focus on REST APIs, CI/CD, scalability, and security. Proven track record leading agile teams and translating business needs into robust technical solutions.
+<h4>Full-Stack Developer with 4+ years of continuous experience since 2022. 20+ systems and applications shipped to production — including apps published on Google Play and App Store, and open source projects with 100,000+ active queries. Specialized in Laravel, Next.js, Flutter, and .NET, with a strong focus on REST APIs, CI/CD, scalability, and security. Proven track record leading agile teams and translating business needs into robust technical solutions.</h4>
 
 ---
 
