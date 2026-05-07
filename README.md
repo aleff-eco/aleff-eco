@@ -190,6 +190,18 @@
 
 ---
 
+### Stats
+
+<div align="center">
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleff-eco&theme=default" alt="Contribution Graph" />
+
+<br/><br/>
+
+---
+
 ### Featured projects
 
 <div align="center">
@@ -222,18 +234,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=aleff-eco&border_radius=6&ring=263a92&fire=263a92&currStreakLabel=263a92" height="165" alt="GitHub Streak" />
-&ensp;
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aleff-eco&hide=HTML&langs_count=8&layout=compact&theme=default&border_radius=10&size_weight=0.5&count_weight=0.5" height="165" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleff-eco&theme=default" alt="Contribution Graph" />
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aleff-eco/aleff-eco/output/github-contribution-grid-snake-dark.svg" />
